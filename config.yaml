@@ -3,9 +3,14 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
+        object detection: 1
+        semantic segmentation: 1
+        image classification: 1
+        computer vision: 1
         anomaly detection: 1
+        state-of-the-art: 5
+        noisy label: 3
+        
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
